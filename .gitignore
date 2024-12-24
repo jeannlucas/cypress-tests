@@ -1,0 +1,13 @@
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar dependências instaladas
+node_modules/
+
+# Ignorar cache do Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Ignorar arquivos do sistema operacional (opcional)
+.DS_Store
+Thumbs.db
